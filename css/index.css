@@ -1,1 +1,24 @@
+body {
+  padding : 25px; we
+  background-color: #ffffff;
+  color: black;
+  font-size: 25px;
+  font-family: 'Brush Script MT', cursive;
+  
+}
+
+.dark-mode { 
+  background-color: #000000;
+  color: #ffffff;
+  
+}
+
+button{
+ color: red;
+ transition-duration: 0.4s;
+ text-decoration: none;
+ overflow: hidden;
+ cursor: pointer;
+ 
+}
 
